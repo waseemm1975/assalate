@@ -1,0 +1,1 @@
+<?php echo $prayer_times[0]; ?> 
